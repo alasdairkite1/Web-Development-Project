@@ -1,8 +1,7 @@
 # Web-Development-Project
 Web development project completed showcasing multi-web page layout that uses features of links, grid and photographs.
 
-Assignment comes in a zip file format and contains:
-- Web Test Plan (Pages)
+The zip file contains:
 - Course.html
 - assignment.css
 - programming.html
